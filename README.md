@@ -9,7 +9,7 @@
 
 This is a 100% free and interactive course for people to teach themselves programming in Python, especially complete beginners at programming.
 It is carefully designed to reduce frustration and guide the user while still ensuring that they learn how to solve problems.
-The goal is for as many people as possible to learn programming.
+The goal is for as many people as possible to learn programming. 
 
 You can try it out here: https://futurecoder.io/
 
